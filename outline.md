@@ -11,7 +11,8 @@
 <div style="color: black"><img src="cha.png">And here is the beauty piece, anyone (like YOU!) can have/use the OSM data</div>
 
 <!--A BOY AND HIS MAP-->
-<div style="color: black"><img src="children's-home.png">How do you know OSM is for you? Does this bother you?</div>
+<div>How do you know OSM is for you? Does this bother you?</div>
+<div style="color: black"><img src="children's-home.png">Does this bother you?</div>
 <div style="color: black"><img src="OMFG.png">OMFG make it stop!!!</div>
 
 <!--SAY HI TO OSM - LETS GET READY TO MAPj-->
